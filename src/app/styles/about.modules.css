@@ -1,0 +1,19 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.headingabout {
+  color: chartreuse;
+  font-size: xx-large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.aboutpara {
+  color: blueviolet;
+  font-size: smaller;
+}
